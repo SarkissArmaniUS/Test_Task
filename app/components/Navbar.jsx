@@ -14,4 +14,6 @@ export default Navbar
 
 // Create Next
 // git settings
-// 15: 25 Main folder structure
+// 15:25 Main folder structure
+// 16:00 Connect to MongoDB, Create Cluster and Settings
+// 17:00 Postman test
