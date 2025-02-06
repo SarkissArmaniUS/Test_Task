@@ -17,3 +17,4 @@ export default Navbar
 // 15:25 Main folder structure
 // 16:00 Connect to MongoDB, Create Cluster and Settings
 // 17:00 Postman test
+// 17:30 Postman test done, starting the connection of Front-End and Backend
